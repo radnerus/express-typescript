@@ -1,0 +1,13 @@
+{
+    "name": "express-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "tsc": "tsc",
+        "dev": "npm run tsc && npm start"
+    },
+    "author": "",
+    "license": "ISC"
+}
